@@ -14,6 +14,9 @@ it is a tool that generates random passwords based on your prefrence
  it lets the user choose how long they want their password to be
 it builds a randomized password using letters numbers, symbols
 
+### 3. Main Launcher ('Main.py')
+-A menu-driven script that lets players choose and run any mini-program from one place
+
 ## How to run
 1. Make sure Python 3 is installed on your computer
 2. Open a terminal inside the project folder
