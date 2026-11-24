@@ -17,6 +17,18 @@ it builds a randomized password using letters numbers, symbols
 ### 3. Main Launcher ('Main.py')
 -A menu-driven script that lets players choose and run any mini-program from one place
 
+## New Additions
+
+4. Number Guessing Game ('number guessing game.py'): Guess a secret number with easy, Medium and Hard difficulty modes, attempts limits and best score tracking
+ 5. Mini Dungeon Survival ('dungeon battle.py'): Fight  scaled enemies across five dungeon floors using quick attacks, heavy strikes, potions and defence, and spend gold at a rest camp between floors
+
+ ## Running the project
+
+ Run the main menu from the 'python codes' folder:
+
+ '''bash
+ main.py
+ 
 ## How to run
 1. Make sure Python 3 is installed on your computer
 2. Open a terminal inside the project folder
