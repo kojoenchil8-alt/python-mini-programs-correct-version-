@@ -20,7 +20,7 @@ it builds a randomized password using letters numbers, symbols
 ## How to run
 1. Make sure Python 3 is installed on your computer
 2. Open a terminal inside the project folder
-3. Run 'python' rock paper scissors.py to play rock paper scissors  or 'python rnadom password generator.py to generate a password
+3. Run 'python' rock paper scissors.py to play rock paper scissors or 'python random password generator.py to generate a password or 'python main launcher to lauch the mini programs
 
 ## What I learned 
 While working on these two programs i practiced using 'while' loops, 'if/elif/else' logic, user 'input()' and the 'random module in python with the help of youtube
